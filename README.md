@@ -44,11 +44,11 @@ to run your project, including:
 	c. Any other notes you feel relevant for the evaluation of your solution
 
 
-## My Assumptions:
+## My Assumptions for console based solution:
 
-1. the no. of containers present in the truck is equal to the no. of vareities of beers given.
-2. duration of journey will be given
-3. the temperature reading of each container will be provided at each second of the journey.
+1. The no. of containers present in the truck is equal to the no. of vareities of beers given.
+2. Duration of journey will be given
+3. The temperature reading of each container will be provided at each second of the journey.
 4. Inputs:
 
 	n -> no. of varieties of beers
@@ -63,6 +63,16 @@ to run your project, including:
 
 	A warning is generated at each second for specific containers if their temperature goes out of the suitable range of the beer, otherwise a msg is displayed to tell that all things are fine inside.
 
+## My Assumptions for webapp based solution:
+
+1. Products will pass through multiple cities.
+2. The temperature reading of each container will be provided during registring the product in the website.
+3. Open the website register yourself and register the product by entering all the relevant details.
+4. I have used an open source openweathermap.org api to get the current temprature of the city.
+5. If the current temp of the city , exceeds the temp bound the product which was mentioned while registring the product, it will generate an alert.
+6. If the truck travels across states to deliver the product, we will have to contiously change the city name , which can be done real time using google map api.
+
+## Console Based Solution has been implemented as follows --- 
 
 ## Sample Input:
 
@@ -155,3 +165,5 @@ At second 7:
                 Warning!!! Temperature low for container 4. Hurry, increase the temperature for container 4.
 
 Truck reached Destination :)
+
+
