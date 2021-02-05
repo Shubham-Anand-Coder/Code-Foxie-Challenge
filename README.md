@@ -183,6 +183,9 @@ Truck reached Destination :)
 
 ![6](https://user-images.githubusercontent.com/68725362/106995186-5d25fc00-67a4-11eb-9bc8-6f2aa60d4f9a.PNG)
 
+
+
+
 ## What I could have done better if we had given you 2 months to build this solution, instead of 2 days. 
 1. Work on the integration of the weather api in the website I would have done
 2. If truck travels across cities, we have have gotten the real time temprature of the city using the google map api and given the name of 
