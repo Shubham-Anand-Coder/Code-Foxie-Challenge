@@ -178,5 +178,11 @@ Truck reached Destination :)
 ![4](https://user-images.githubusercontent.com/68725362/106994631-2ef3ec80-67a3-11eb-8b09-66f9e6877d8b.PNG)
 ![1](https://user-images.githubusercontent.com/68725362/106994633-2f8c8300-67a3-11eb-9c48-5f0249c6bcc0.jpg)
 
+![5](https://user-images.githubusercontent.com/68725362/106995113-32d43e80-67a4-11eb-8927-256e402bd008.PNG)
+
+![6](https://user-images.githubusercontent.com/68725362/106995186-5d25fc00-67a4-11eb-9bc8-6f2aa60d4f9a.PNG)
+
+
+
 
 
