@@ -166,4 +166,17 @@ At second 7:
 
 Truck reached Destination :)
 
+## Steps to Run the Website
+
+1. Download all the relevant reposatories
+2. Open Visual Studio or atom and run the command npm install
+3.Once all the dependencies mentioned in the package.json file is intalled run the command npm start to start the server
+4. Run the command node app.js and go to localhost:5015 to enter the website
+
+## Screenshots attached
+![3](https://user-images.githubusercontent.com/68725362/106994623-2d2a2900-67a3-11eb-884e-7ef204c5fda8.PNG)
+![4](https://user-images.githubusercontent.com/68725362/106994631-2ef3ec80-67a3-11eb-8b09-66f9e6877d8b.PNG)
+![1](https://user-images.githubusercontent.com/68725362/106994633-2f8c8300-67a3-11eb-9c48-5f0249c6bcc0.jpg)
+
+
 
