@@ -44,7 +44,7 @@ to run your project, including:
 	c. Any other notes you feel relevant for the evaluation of your solution
 
 
-## My Assumptions for console based solution:
+## My Assumptions for console based solution: ( Solution.cpp is the file name )
 
 1. The no. of containers present in the truck is equal to the no. of vareities of beers given.
 2. Duration of journey will be given
@@ -168,10 +168,11 @@ Truck reached Destination :)
 
 ## Steps to Run the Website
 
-1. Download all the relevant reposatories
+1. Download all the relevant repository
 2. Open Visual Studio or atom and run the command npm install
 3. Once all the dependencies mentioned in the package.json file is intalled run the command npm start to start the server
 4. Run the command node app.js and go to localhost:5015 to enter the website
+5. Work on the Node.js Weather API is still going on
 
 ## Screenshots attached
 ![3](https://user-images.githubusercontent.com/68725362/106994623-2d2a2900-67a3-11eb-884e-7ef204c5fda8.PNG)
@@ -181,6 +182,12 @@ Truck reached Destination :)
 ![5](https://user-images.githubusercontent.com/68725362/106995113-32d43e80-67a4-11eb-8927-256e402bd008.PNG)
 
 ![6](https://user-images.githubusercontent.com/68725362/106995186-5d25fc00-67a4-11eb-9bc8-6f2aa60d4f9a.PNG)
+
+## What I could have done better if we had given you 2 months to build this solution, instead of 2 days. 
+1. Work on the integration of the weather api in the website I would have done
+2. If truck travels across cities, we have have gotten the real time temprature of the city using the google map api and given the name of 
+the city in the openweathermap api to get it's real time temprature
+3. This Project could have been further modified to ensure  effective delivery of the vaccines too, as vaccine delivery is temp dependent too.
 
 
 
