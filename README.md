@@ -170,7 +170,7 @@ Truck reached Destination :)
 
 1. Download all the relevant reposatories
 2. Open Visual Studio or atom and run the command npm install
-3.Once all the dependencies mentioned in the package.json file is intalled run the command npm start to start the server
+3. Once all the dependencies mentioned in the package.json file is intalled run the command npm start to start the server
 4. Run the command node app.js and go to localhost:5015 to enter the website
 
 ## Screenshots attached
